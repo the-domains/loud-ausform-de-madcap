@@ -1,7 +1,7 @@
 name: Loud Ausform de Madcap
 favicon: null
-layout_spectrum: 0.15626
-typography_spectrum: 0.9581
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
