@@ -1,7 +1,7 @@
 name: Loud Ausform de Madcap
 favicon: null
 layout_spectrum: 0.37346
-typography_spectrum: 1
+typography_spectrum: 0.38049
 title: Ausform
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#3ccc97'
     - '#f6d0b2'
   brandStrength: 1
-  lightness: 0.875
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
