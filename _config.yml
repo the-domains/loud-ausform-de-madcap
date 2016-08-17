@@ -1,7 +1,7 @@
 name: Ausform MadCap
 favicon: null
-layout_spectrum: 0.21258
-typography_spectrum: 0.38049
+layout_spectrum: 0
+typography_spectrum: 0.32205
 title: Ausform
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#b44d75'
     - '#3ccc97'
     - '#f6d0b2'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.25
   rhythmicContrast: 1
 purpose: []
